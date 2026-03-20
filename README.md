@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js).<br><br>🤝 I’m looking to collaborate on<br>Open-source projects and innovative MERN stack applications.<br><br>🌱 I’m currently learning<br>Competitive programming and strengthening my MERN skills by building real-world projects.<br><br>💬 Ask me about<br>Web development, JavaScript, React, Node.js, and problem-solving strategies.<br><br>⚡ Fun fact<br>I love solving logic puzzles and can code for hours with coffee ☕.
+🔭 I’m currently working on<br>Building full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js).<br><br>🤝 I’m looking to collaborate on<br>Open-source projects and innovative MERN stack applications.<br><br>🌱 I’m currently learning<br> strengthening my MERN skills by building real-world projects.<br><br>💬 Ask me about<br>Web development, JavaScript, React, Node.js, and problem-solving strategies.<br><br>⚡ Fun fact<br>I love solving logic puzzles and can code for hours with coffee ☕.
 
 
 ## 🌐 Socials:
