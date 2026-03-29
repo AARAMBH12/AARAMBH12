@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AARAMBH12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 God's Plan <br/>                                                                                                                                      ->                             Himanshu Sharma
 
 ### 🔝 Top Contributed Repo
